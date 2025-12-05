@@ -1,4 +1,4 @@
-Here is a **perfect, polished, highly-professional `README.md`** for your **Hyper-Optimized Aksharamukha Transliterator** project — written in a way suitable for **GitHub, research, portfolio, or production use**.
+
 
 ---
 
